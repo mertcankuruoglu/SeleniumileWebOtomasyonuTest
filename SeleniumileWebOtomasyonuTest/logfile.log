@@ -1,0 +1,1147 @@
+2021-12-29 13:40:57,602 ERROR [Log] searchaProduct()BA�?ARISIZ OLDU. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c8a8f7f4b30ab98b1d9f9c6c459c52dc
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 13:40:57,626 ERROR [Log] selectaProduct()BA�?ARISIZ OLDU. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 13:40:57,686 ERROR [Log] addToCart()BA�?ARISIZ OLDU. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c8a8f7f4b30ab98b1d9f9c6c459c52dc
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 13:40:57,731 ERROR [Log] goToCart()BA�?ARISIZ OLDU. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c8a8f7f4b30ab98b1d9f9c6c459c52dc
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 13:44:43,246 ERROR [Log] searchaProduct()BA�?ARISIZ OLDU. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fc47b4b90afadd468768e187f8ae66a
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 13:44:43,276 ERROR [Log] selectaProduct()BA�?ARISIZ OLDU. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 13:44:43,401 ERROR [Log] addToCart()BA�?ARISIZ OLDU. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fc47b4b90afadd468768e187f8ae66a
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 13:44:43,501 ERROR [Log] goToCart()BA�?ARISIZ OLDU. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fc47b4b90afadd468768e187f8ae66a
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 13:49:45,846 ERROR [Log] searchaProduct()BA�?ARISIZ OLDU. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49762}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4cbeb080bed1395585d1e9941f317329
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 13:49:45,914 ERROR [Log] selectaProduct()BA�?ARISIZ OLDU. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 13:49:45,951 ERROR [Log] addToCart()BA�?ARISIZ OLDU. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49762}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4cbeb080bed1395585d1e9941f317329
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 13:49:45,999 ERROR [Log] goToCart()BA�?ARISIZ OLDU. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49762}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4cbeb080bed1395585d1e9941f317329
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 15:07:24,621 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59464}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0968192512f76f6fcc0ea25ce8a54644
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 15:07:24,727 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 15:07:24,791 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59464}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0968192512f76f6fcc0ea25ce8a54644
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 15:07:24,872 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59464}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0968192512f76f6fcc0ea25ce8a54644
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 15:19:59,905 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59974}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7794cadd024fc118c16ab51ab84acc4d
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 15:20:00,046 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 15:20:00,135 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59974}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7794cadd024fc118c16ab51ab84acc4d
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 15:20:00,238 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"submit.o-header__userInfo--count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59974}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7794cadd024fc118c16ab51ab84acc4d
+*** Element info: {Using=css selector, value=submit.o-header__userInfo--count} 
+2021-12-29 15:21:34,952 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60112}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ddc1f1e0c98bcd9b95e274c09c8ab8
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 15:21:35,007 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 15:21:35,031 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60112}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ddc1f1e0c98bcd9b95e274c09c8ab8
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 15:21:35,192 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"submit.o-header"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60112}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ddc1f1e0c98bcd9b95e274c09c8ab8
+*** Element info: {Using=css selector, value=submit.o-header} 
+2021-12-29 15:25:44,822 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60324}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d273e14fabb171d891e3c2f7e47a5dd
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 15:25:44,852 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 15:25:44,866 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60324}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d273e14fabb171d891e3c2f7e47a5dd
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 15:25:44,882 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"o-header__search--btn"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60324}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d273e14fabb171d891e3c2f7e47a5dd
+*** Element info: {Using=css selector, value=o-header__search--btn} 
+2021-12-29 15:45:33,039 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61103}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c8c8329f1eb95f73badc42e0a577a259
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 15:45:33,123 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 15:45:33,343 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61103}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c8c8329f1eb95f73badc42e0a577a259
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 15:45:33,407 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61103}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c8c8329f1eb95f73badc42e0a577a259
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 15:48:59,496 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61683}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 149565392793b71136fc53d35ad7a613
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 15:48:59,577 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 15:48:59,700 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61683}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 149565392793b71136fc53d35ad7a613
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 15:48:59,740 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61683}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 149565392793b71136fc53d35ad7a613
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 15:50:12,303 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61797}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fcb51db3ef728ca814c802d113e6dc5b
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 15:50:12,429 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 15:50:12,455 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61797}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fcb51db3ef728ca814c802d113e6dc5b
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 15:50:12,474 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61797}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fcb51db3ef728ca814c802d113e6dc5b
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 15:50:57,648 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 15:50:57,683 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 15:50:57,716 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61903}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f83f34648e3f8178fbb7e98558c9aa6c
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 15:50:57,737 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61903}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f83f34648e3f8178fbb7e98558c9aa6c
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:00:07,263 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 16:00:08,979 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62408}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 41b9a80f3c2c340c3187c1de359dcc90
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 16:00:09,068 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62408}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 41b9a80f3c2c340c3187c1de359dcc90
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 16:00:09,147 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62408}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 41b9a80f3c2c340c3187c1de359dcc90
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:01:35,175 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62586}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5bd14d265071303b6109f91b4b8505d9
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 16:01:35,435 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 16:01:35,447 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62586}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5bd14d265071303b6109f91b4b8505d9
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 16:01:35,462 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62586}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5bd14d265071303b6109f91b4b8505d9
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:02:08,289 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 16:02:09,879 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62675}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f532683fb13c1952a29ffd6ac7fc91f3
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 16:02:10,077 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62675}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f532683fb13c1952a29ffd6ac7fc91f3
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 16:02:10,169 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62675}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f532683fb13c1952a29ffd6ac7fc91f3
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:05:29,741 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 16:05:31,619 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 16:05:31,810 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62984}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d64080ef120a8a36938b8d18bac7cb2
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:05:31,933 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62984}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d64080ef120a8a36938b8d18bac7cb2
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:11:00,718 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 16:11:02,358 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 16:11:02,594 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63494}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 602cfe844828f5ad71c96ce8baf4bbca
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:11:02,639 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63494}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 602cfe844828f5ad71c96ce8baf4bbca
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:32:25,569 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64500}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fbc02b7cbf919c411b4e789084c779f2
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 16:32:25,645 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: element not interactable
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64500}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fbc02b7cbf919c411b4e789084c779f2 
+2021-12-29 16:32:25,669 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64500}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fbc02b7cbf919c411b4e789084c779f2
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 16:32:31,538 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 16:33:04,324 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64606}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a76aa98ff51ee7d2916d7b0771a5cb5
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 16:33:09,455 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: stale element reference: element is not attached to the page document
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64606}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a76aa98ff51ee7d2916d7b0771a5cb5 
+2021-12-29 16:33:09,471 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64606}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a76aa98ff51ee7d2916d7b0771a5cb5
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 16:33:15,729 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 16:34:59,483 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 16:35:02,378 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 16:35:02,600 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 39315e2ac929ac41560cb78a37b59b50
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:35:04,353 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 16:35:24,914 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 16:35:27,282 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 16:35:27,436 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64957}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d27519d5b5cdb8551f4c9f276b318cf8
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:35:29,121 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 16:35:44,053 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__search\-\-btn"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65065}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aff4fe5859febbdab34093f7f37878f2
+*** Element info: {Using=class name, value=o-header__search--btn} 
+2021-12-29 16:35:44,136 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: element not interactable
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65065}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aff4fe5859febbdab34093f7f37878f2 
+2021-12-29 16:35:44,159 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65065}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aff4fe5859febbdab34093f7f37878f2
+*** Element info: {Using=id, value=addBasket} 
+2021-12-29 16:35:47,634 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 16:51:26,421 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__search\-\-btn"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eba0878361115163ed6ec5dd58782f65
+*** Element info: {Using=class name, value=o-header__search--btn} 
+2021-12-29 16:51:26,635 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: element not interactable
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eba0878361115163ed6ec5dd58782f65 
+2021-12-29 16:51:26,681 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eba0878361115163ed6ec5dd58782f65
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 16:51:28,417 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 16:51:49,962 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49326}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ca470525b339a4bdbc844cc85b446507
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 16:51:50,030 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: element not interactable
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49326}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ca470525b339a4bdbc844cc85b446507 
+2021-12-29 16:51:50,059 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49326}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ca470525b339a4bdbc844cc85b446507
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 16:51:52,626 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 16:52:14,383 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49411}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 46835ccb94394f63875394d78f5193ce
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 16:52:14,451 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: element not interactable
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49411}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 46835ccb94394f63875394d78f5193ce 
+2021-12-29 16:52:14,469 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49411}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 46835ccb94394f63875394d78f5193ce
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 16:52:17,362 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 16:53:03,903 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49489}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3a0b1051acf2454f84c750da77924aa8
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 16:53:07,513 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 16:53:07,756 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49489}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3a0b1051acf2454f84c750da77924aa8
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:53:09,294 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 16:53:28,903 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49602}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dbebf6be45ae90df17596b59576594ea
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 16:53:32,496 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 16:53:32,694 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49602}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dbebf6be45ae90df17596b59576594ea
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:53:36,201 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 16:56:15,946 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 16:56:17,613 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 16:56:18,381 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49814}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 77b1d8ccab08b266e4b2f54ce9c68073
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 16:56:20,909 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:01:55,688 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 17:01:57,430 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 17:01:57,452 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item\-active"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50104}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 47d1e8375a8cc1bae3902d98b02e4d81
+*** Element info: {Using=class name, value=m-variation__item-active} 
+2021-12-29 17:01:59,135 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:08:09,698 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50361}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a66c7395c63a0ac32ba10b2ba3661c6
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 17:08:09,727 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Index 1 out of bounds for length 0 
+2021-12-29 17:08:09,743 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50361}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a66c7395c63a0ac32ba10b2ba3661c6
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:08:09,762 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-text"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50361}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a66c7395c63a0ac32ba10b2ba3661c6
+*** Element info: {Using=class name, value=o-header__userInfo--text} 
+2021-12-29 17:08:30,055 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__search\-\-btn"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50463}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 26be039a2b58d021a71fcdb8ac543dbf
+*** Element info: {Using=class name, value=o-header__search--btn} 
+2021-12-29 17:08:30,124 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: element not interactable
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50463}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 26be039a2b58d021a71fcdb8ac543dbf 
+2021-12-29 17:08:30,142 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50463}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 26be039a2b58d021a71fcdb8ac543dbf
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:08:32,077 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:09:20,819 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 17:09:22,295 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 17:09:22,676 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50583}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 14b7f744a132702b9b46d61480bfcdf2
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 17:09:22,803 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:09:46,685 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__search\-\-btn"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50691}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9892ba3a78e66fecc550a60cf035de0f
+*** Element info: {Using=class name, value=o-header__search--btn} 
+2021-12-29 17:09:46,827 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: element not interactable
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50691}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9892ba3a78e66fecc550a60cf035de0f 
+2021-12-29 17:09:46,849 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50691}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9892ba3a78e66fecc550a60cf035de0f
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:09:48,724 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:10:09,311 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50772}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed6f43e22012811fcaf98bb516828092
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 17:10:12,476 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 17:10:13,131 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50772}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed6f43e22012811fcaf98bb516828092
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 17:10:14,248 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: element click intercepted: Element <span class="o-header__userInfo--text">...</span> is not clickable at point (1314, 6). Other element would receive the click: <div class="col-md-6 col-lg-4 -detailWrapper">...</div>
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50772}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed6f43e22012811fcaf98bb516828092 
+2021-12-29 17:16:45,330 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51283}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cdb9dfc19233a37aeb149d68353d47c1
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:16:45,345 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:16:45,457 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51283}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cdb9dfc19233a37aeb149d68353d47c1
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:16:46,993 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:17:14,249 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 17:17:15,715 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 17:17:16,426 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51378}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc33477bfb6c2b9d1b0d9ed289982897
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 17:17:18,072 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:45:15,660 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50900}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a0898d5f565140a1175ce663c4df1c8
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:45:15,672 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:45:15,701 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50900}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a0898d5f565140a1175ce663c4df1c8
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:45:17,510 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:45:31,880 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50982}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0725710023561bff2b615d6bba488ba7
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:45:31,891 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:45:32,003 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50982}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0725710023561bff2b615d6bba488ba7
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:45:33,908 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:45:49,775 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51065}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 41c887d34f030dfca375d2287bc14a2a
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-29 17:45:53,626 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 17:45:54,267 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51065}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 41c887d34f030dfca375d2287bc14a2a
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 17:45:54,789 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:49:27,668 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51285}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c4bd6d5fb04317965232e4f30d06b91c
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:49:27,679 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:49:28,080 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51285}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c4bd6d5fb04317965232e4f30d06b91c
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:49:30,489 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:49:43,323 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51400}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a24da98c3107a612235600605c45d98a
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:49:43,336 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:49:43,653 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51400}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a24da98c3107a612235600605c45d98a
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:49:45,336 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:50:39,198 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51537}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: baf7c53ebcc75daa01454507743c97ed
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:50:39,210 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:50:39,246 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51537}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: baf7c53ebcc75daa01454507743c97ed
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:50:42,907 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:50:57,482 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9e2132c504caecf4fc682ffcb9a1ef8
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:50:57,493 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:50:57,564 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51628}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9e2132c504caecf4fc682ffcb9a1ef8
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:50:59,145 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:51:34,917 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51716}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bd664c4506cdbadcd1648c0082946f53
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:51:34,930 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:51:35,119 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51716}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bd664c4506cdbadcd1648c0082946f53
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:51:36,829 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:51:50,719 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51802}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b4f79ad12a5f2fa9fca7873b2504bb02
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:51:50,729 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:51:50,922 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51802}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b4f79ad12a5f2fa9fca7873b2504bb02
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:51:52,390 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:52:12,724 ERROR [Log] searchaProduct()BasarÄ±sÄ±z Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51880}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f4ac15272b2e590b8eb32c8e167a1bc0
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:52:12,739 ERROR [Log] selectaProduct()BasarÄ±sÄ±z Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:52:12,932 ERROR [Log] addToCart()BasarÄ±sÄ±z Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51880}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f4ac15272b2e590b8eb32c8e167a1bc0
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:52:14,631 ERROR [Log] goToCart()BasarÄ±sÄ±z Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:53:06,011 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51962}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: caa8af50e271dbd720e1a8db0d5f589e
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:53:06,023 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:53:06,067 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51962}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: caa8af50e271dbd720e1a8db0d5f589e
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:53:07,835 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:53:34,354 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52043}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 216e7618845ceea1e831fb0887cbc592
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:53:34,367 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:53:34,480 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52043}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 216e7618845ceea1e831fb0887cbc592
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:53:36,196 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:54:19,996 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52192}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ba6a1e402484b82e63c802aa4945790c
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-29 17:54:20,008 ERROR [Log] selectaProduct()Basarısız Oldu. Sebebi: Cannot invoke "ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2021-12-29 17:54:20,213 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".m\-variation__item"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52192}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ba6a1e402484b82e63c802aa4945790c
+*** Element info: {Using=class name, value=m-variation__item} 
+2021-12-29 17:54:24,341 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:54:58,073 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 17:54:59,638 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 17:55:00,170 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52292}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 394497df61460a94aaf0a8020d570dfe
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 17:55:01,770 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:56:33,108 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 17:56:34,875 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 17:56:35,552 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52410}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e149d6a583db3e9b5aa43df1426bbbb1
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 17:56:37,080 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 17:59:49,069 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 17:59:50,670 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 17:59:51,380 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52527}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bdf703da97e394f61e110bb6fe819d7b
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 17:59:52,890 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-29 18:01:58,403 INFO  [Log] searchaProduct()Basarılı Oldu 
+2021-12-29 18:02:00,031 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-29 18:02:00,279 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52660}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0c0b06375e6870fad019b58b1e996b8f
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-29 18:02:01,860 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
+2021-12-30 10:59:28,553 ERROR [Log] searchaProduct()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":"#productListTitle"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64bc03e0a523e1f6573d42ae5e8e126a
+*** Element info: {Using=id, value=productListTitle} 
+2021-12-30 10:59:32,604 INFO  [Log] selectaProduct()Basarılı Oldu 
+2021-12-30 10:59:33,334 ERROR [Log] addToCart()Basarısız Oldu. Sebebi: no such element: Unable to locate element: {"method":"css selector","selector":".o\-header__userInfo\-\-count"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0IVEIC1', ip: '192.168.1.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\mertc\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64bc03e0a523e1f6573d42ae5e8e126a
+*** Element info: {Using=class name, value=o-header__userInfo--count} 
+2021-12-30 10:59:35,534 ERROR [Log] goToCart()Basarısız Oldu. Sebebi: Product  did'nt add to cart ==> expected: <true> but was: <false> 
